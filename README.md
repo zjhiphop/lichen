@@ -39,6 +39,14 @@ Steps to do the factory:
     * Try to choose some lanaguages can do this type of work   
     * Do some simple test builds   
 
+### Research  
+1. Base lib choose: [Closure Library](https://developers.google.com/closure/library/?hl=zh-CN)    
+2. MV-whatever [angularjs](http://www.angularjs.org/)   
+3. JS file editer [CoffeeScript](http://coffeescript.org/)  
+4. CSS file editer [Closure Stylesheets](http://code.google.com/p/closure-stylesheets/)    
+5. HTML Template dom template (angularjs built in template)
+6. [javascriptguide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
+6. [htmlcssguide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)   
 
 ### Authors and Contributors  
-#### IN 2012,Jade.zhangjin (@zjhiphop). 
+#### IN 2012,Jade.zhangjin (@zjhiphop).  
