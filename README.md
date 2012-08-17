@@ -4,7 +4,7 @@ lichen
 A pipeline factory lab for web software.
 
 Steps to do the factory:   
-# Collect common ui component  
+### Collect common ui component  
     1. How?  
         * From RSS/Blog etc.   
         * Thinking by us  
@@ -16,7 +16,7 @@ Steps to do the factory:
         * Have simple prototype  
         * Have simple testCase  
 
-# Build common component to a widget   
+### Build common component to a widget   
     1. How?  
         * Use commonjs to transfer a component to widget  
     2. what?  
@@ -25,12 +25,12 @@ Steps to do the factory:
         * Have fully tested in mainstram browsers  
         * Can pass all unit tests(optional)  
 
-# Supply a compose manager to build app from widgets  
+### Supply a compose manager to build app from widgets  
     1. What?  
         * A compose manager is used to build compose widgets  
         * An app can build from compose manager  
 
-# Try to use some static language to build auto generate js/css code  
+### Try to use some static language to build auto generated js/css code  
     1. What?  
         * It's like a rob that can gennerate different codes by different config  
         * It based on tasks  
@@ -38,3 +38,7 @@ Steps to do the factory:
     2. How?  
         * Try to choose some lanaguages can do this type of work   
         * Do some simple test builds   
+
+
+### Authors and Contributors  
+#### IN 2012,Jade.zhangjin (@zjhiphop). 
