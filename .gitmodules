@@ -1,0 +1,3 @@
+[submodule "Glab/angularjs/seed"]
+	path = Glab/angularjs/seed
+	url = https://github.com/angular/angular-seed.git

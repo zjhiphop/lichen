@@ -48,5 +48,9 @@ Steps to do the factory:
 6. [javascriptguide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
 6. [htmlcssguide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)   
 
+TODO List:
+1. Try Google Common Lib
+2. Bild basic structure
+
 ### Authors and Contributors  
 #### IN 2012,Jade.zhangjin (@zjhiphop).  
